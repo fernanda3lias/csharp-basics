@@ -1,6 +1,8 @@
 <h1 align="center">csharp-basics</h1>
 
-<p align="center">I created this repository to store my C# language learning files so that I can check them later. </p>
+<p>I created this repository to store my C# language learning files so that I can check them later. </p>
+
+<span style="color:blue">some *blue* text</span>
 
 <h2>Files</h2>
 
