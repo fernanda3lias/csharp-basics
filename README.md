@@ -4,4 +4,5 @@ I created this repository to store my C# language learning files so that I can c
 
 - `LearningCSharp`: Alura C# part 1: first steps
 
+ʕ￫ᴥ￩ʔ
 
