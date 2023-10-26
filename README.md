@@ -5,9 +5,7 @@ I created this repository to store my C# language learning files so that I can c
 <h2>files</h2>
 
 - `LearningCSharp`: Alura C# part 1: first steps
-
 <h2> </h2>
-
 ```
 "La vettura più bella e importante è quella che devo ancora costruire"
 -Ferrari, Enzo.
