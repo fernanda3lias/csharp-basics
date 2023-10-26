@@ -2,7 +2,7 @@
 
 <p>I created this repository to store my C# language learning files so that I can check them later.</p>
 
-<h2>Files</h2>
+<h2>Files ☕</h2>
 
 - `LearningCSharp`: Alura C# part 1: first steps
 <h2>Thank you very much!</h2>
