@@ -1,4 +1,4 @@
-<h1>csharp-basics</h1>
+<h1 align="center">csharp-basics</h1>
 
 <p>I created this repository to store my C# language learning files so that I can check them later. </p>
 
