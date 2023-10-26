@@ -7,6 +7,7 @@ I created this repository to store my C# language learning files so that I can c
 - `LearningCSharp`: Alura C# part 1: first steps
 <h2>Muito obrigada!</h2>
 
+```
              ／＞　 フ
             | 　_　_| 
           ／` ミ＿xノ 
@@ -16,3 +17,4 @@ I created this repository to store my C# language learning files so that I can c
    ／￣|　　 |　|　|
     (￣ヽ＿_ヽ_)__)
      ＼二)
+```
