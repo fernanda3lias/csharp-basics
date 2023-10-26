@@ -11,10 +11,10 @@ I created this repository to store my C# language learning files so that I can c
              ／＞　 フ
             | 　_　_| 
           ／` ミ＿xノ 
-         /　　　　 |
-        /　 ヽ　　 ﾉ
+         /　　　　 |            "La vettura più bella e importante è quella che devo ancora costruire"
+        /　 ヽ　　 ﾉ            -Ferrari, Enzo.
         │　　|　|　|
    ／￣|　　 |　|　|
-    (￣ヽ＿_ヽ_)__)
-     ＼二)
+   (￣ヽ＿__ヽ_)__)
+    ＼二)
 ```
