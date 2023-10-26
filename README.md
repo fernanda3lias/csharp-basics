@@ -8,5 +8,5 @@ I created this repository to store my C# language learning files so that I can c
 
 ```
 "La vettura più bella e importante è quella che devo ancora costruire"
-                                                       -Ferrari, Enzo.
+-Ferrari, Enzo.
 ```
