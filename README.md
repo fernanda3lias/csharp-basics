@@ -5,6 +5,7 @@
 <h2>Files ☕</h2>
 
 - `LearningCSharp`: Alura C# part 1: first steps
+- `FerrariFinanceGroup`: Alura C# part 2: understanding object orientation
 <h2>Thank you very much!</h2>
 
 ```
